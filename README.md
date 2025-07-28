@@ -12,7 +12,6 @@ Software Engineer specializing in .NET, Clean Architecture, and full-stack devel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shabanhassan1010&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shabanhassan1010&theme=cobalt2&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabanhassan1010&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shabanhassan1010&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
